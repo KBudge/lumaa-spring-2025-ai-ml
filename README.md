@@ -1,5 +1,5 @@
 # Dataset
-The dataset comes from Kaggle and includes the top 100 movies from IMDB.\
+The dataset comes from Kaggle and includes the top 100 movies from IMDB. I used the columns with the rank, title, description, and genre.\
 The CSV file is included in this repository so downloading it is not necessary.\
 You can download it from 
 https://www.kaggle.com/datasets/adikhare/top-100-imdb-movies?resource=download&select=Top+100+IMDB+Movies.csv
@@ -33,3 +33,6 @@ Similarity Score: 0.1074 - WALL·E\
 
 Similarity Score: 0.0979 - City Lights\
    Description: With the aid of a wealthy erratic tippler, a dewy-eyed tramp who has fallen in love with a sightless flower girl accumulates money to be able to help her medically.
+
+# Salary Requirements
+$20-$30 per hour. Assuming 20 hours per week that would be $1600-$2400 per month.
