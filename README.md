@@ -14,7 +14,7 @@ Pandas, Numpy, and scikit-learn
 1. Download MovieRecommendation-KamiBudge.ipynb to your prefered folder on your system.
 2. Open the file in Jupyter Notebook.
 3. Run the cells in order (click in first cell and press shift + Enter, 3 times).
-4. When prompted, input they type of movie you are looking for (eg. "I love thrilling action movies set in space, with a comedic twist." and press Enter.
+4. When prompted, input they type of movie you are looking for (eg. "I love thrilling action movies set in space, with a comedic twist.") and press Enter.
 
 # Results
 Top 5 movie recommendations based on your input:
